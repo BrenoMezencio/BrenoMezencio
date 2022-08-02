@@ -23,7 +23,6 @@
  
   
  
-  ![Snake animation]
-  https://github.com/BrenoMezencio/BrenoMezencio/edit/main/README.md
+  
 
 </div>
